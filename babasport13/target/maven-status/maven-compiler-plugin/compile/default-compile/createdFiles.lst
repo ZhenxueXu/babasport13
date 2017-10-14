@@ -1,0 +1,4 @@
+cn\itcast\core\service\TestTbservice.class
+cn\itcast\core\bean\TestTb.class
+cn\itcast\core\dao\TestTbDao.class
+cn\itcast\core\service\TestTbServiceImpl.class
